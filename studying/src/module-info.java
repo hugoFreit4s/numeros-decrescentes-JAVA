@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mairi
+ *
+ */
+module studying {
+}
